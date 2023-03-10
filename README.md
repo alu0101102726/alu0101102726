@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">I am a Full Stack developer from Spain</h3>
-
-- 🔭 I’m currently learning **Angular and Java** 
-
-- 📫 How to reach me **carlosdiazcalzadilla@hotmail.com**
+<h3 align="center">Full Stack developer from Spain 📫</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
