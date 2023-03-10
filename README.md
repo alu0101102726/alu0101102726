@@ -13,7 +13,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alu0101102726&show_icons=true&locale=en&layout=compact" alt="alu0101102726" />
-<img src="https://github-readme-stats.vercel.app/api?username=alu0101102726&show_icons=true&locale=en" alt="alu0101102726" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=alu0101102726&show_icons=true&locale=en" alt="alu0101102726" /> -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
